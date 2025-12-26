@@ -1,0 +1,14 @@
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\private setter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\private setter.AssemblyInfoInputs.cache
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\private setter.AssemblyInfo.cs
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\private setter.csproj.CoreCompileInputs.cache
+D:\Programs For PC\Rider Project\private setter\private setter\bin\Debug\net10.0\private setter.exe
+D:\Programs For PC\Rider Project\private setter\private setter\bin\Debug\net10.0\private setter.deps.json
+D:\Programs For PC\Rider Project\private setter\private setter\bin\Debug\net10.0\private setter.runtimeconfig.json
+D:\Programs For PC\Rider Project\private setter\private setter\bin\Debug\net10.0\private setter.dll
+D:\Programs For PC\Rider Project\private setter\private setter\bin\Debug\net10.0\private setter.pdb
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\private setter.dll
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\refint\private setter.dll
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\private setter.pdb
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\private setter.genruntimeconfig.cache
+D:\Programs For PC\Rider Project\private setter\private setter\obj\Debug\net10.0\ref\private setter.dll
