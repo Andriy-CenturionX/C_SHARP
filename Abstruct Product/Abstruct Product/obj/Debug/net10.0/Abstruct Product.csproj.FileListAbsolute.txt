@@ -1,0 +1,14 @@
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\bin\Debug\net10.0\Abstruct Product.exe
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\bin\Debug\net10.0\Abstruct Product.deps.json
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\bin\Debug\net10.0\Abstruct Product.runtimeconfig.json
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\bin\Debug\net10.0\Abstruct Product.dll
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\bin\Debug\net10.0\Abstruct Product.pdb
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\Abstruct Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\Abstruct Product.AssemblyInfoInputs.cache
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\Abstruct Product.AssemblyInfo.cs
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\Abstruct Product.csproj.CoreCompileInputs.cache
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\Abstruct Product.dll
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\refint\Abstruct Product.dll
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\Abstruct Product.pdb
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\Abstruct Product.genruntimeconfig.cache
+D:\Programs For PC\Rider Project\Abstruct Product\Abstruct Product\obj\Debug\net10.0\ref\Abstruct Product.dll
