@@ -1,0 +1,14 @@
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\bin\Debug\net10.0\ICalc.exe
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\bin\Debug\net10.0\ICalc.deps.json
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\bin\Debug\net10.0\ICalc.runtimeconfig.json
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\bin\Debug\net10.0\ICalc.dll
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\bin\Debug\net10.0\ICalc.pdb
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ICalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ICalc.AssemblyInfoInputs.cache
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ICalc.AssemblyInfo.cs
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ICalc.csproj.CoreCompileInputs.cache
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ICalc.dll
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\refint\ICalc.dll
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ICalc.pdb
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ICalc.genruntimeconfig.cache
+D:\Programs For PC\Rider Project\ ICalc\ ICalc\obj\Debug\net10.0\ref\ICalc.dll
