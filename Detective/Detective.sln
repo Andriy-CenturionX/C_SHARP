@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detective", "Detective\Detective.csproj", "{BF9CB66B-C6F5-45CD-A0F4-29264FB5302E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9CB66B-C6F5-45CD-A0F4-29264FB5302E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9CB66B-C6F5-45CD-A0F4-29264FB5302E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9CB66B-C6F5-45CD-A0F4-29264FB5302E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9CB66B-C6F5-45CD-A0F4-29264FB5302E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
