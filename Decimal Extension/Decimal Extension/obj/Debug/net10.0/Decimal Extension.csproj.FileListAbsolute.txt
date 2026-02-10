@@ -1,0 +1,14 @@
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\bin\Debug\net10.0\Decimal Extension.exe
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\bin\Debug\net10.0\Decimal Extension.deps.json
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\bin\Debug\net10.0\Decimal Extension.runtimeconfig.json
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\bin\Debug\net10.0\Decimal Extension.dll
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\bin\Debug\net10.0\Decimal Extension.pdb
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\Decimal Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\Decimal Extension.AssemblyInfoInputs.cache
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\Decimal Extension.AssemblyInfo.cs
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\Decimal Extension.csproj.CoreCompileInputs.cache
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\Decimal Extension.dll
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\refint\Decimal Extension.dll
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\Decimal Extension.pdb
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\Decimal Extension.genruntimeconfig.cache
+D:\Programs For PC\Rider Project\Decimal Extension\Decimal Extension\obj\Debug\net10.0\ref\Decimal Extension.dll

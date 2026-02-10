@@ -1,0 +1,14 @@
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\bin\Debug\net10.0\Basic LINQ.exe
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\bin\Debug\net10.0\Basic LINQ.deps.json
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\bin\Debug\net10.0\Basic LINQ.runtimeconfig.json
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\bin\Debug\net10.0\Basic LINQ.dll
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\bin\Debug\net10.0\Basic LINQ.pdb
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\Basic LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\Basic LINQ.AssemblyInfoInputs.cache
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\Basic LINQ.AssemblyInfo.cs
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\Basic LINQ.csproj.CoreCompileInputs.cache
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\Basic LINQ.dll
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\refint\Basic LINQ.dll
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\Basic LINQ.pdb
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\Basic LINQ.genruntimeconfig.cache
+D:\Programs For PC\Rider Project\Basic LINQ\Basic LINQ\obj\Debug\net10.0\ref\Basic LINQ.dll
