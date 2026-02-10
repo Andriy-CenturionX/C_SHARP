@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Custom_Extension/1.0.0": {
+        "runtime": {
+          "Custom_Extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom_Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
